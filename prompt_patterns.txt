@@ -1,0 +1,5 @@
+1 - Persona
+2 - Cognitive Verifier
+3 - Root Prompting
+4 - Format of the Menu Pattern
+5 - Tail genration Pattern 
